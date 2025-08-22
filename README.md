@@ -8,7 +8,7 @@ Here, I will gather all my studies, as well as documents that helped me to getti
 - You can find the material in:
 
     <a href="linear-regression/regression_study.ipynb">English - Click Here</a>
-<br>
+
     <a href="linear-regression/regression_study.ipynb">Português (Brasil) - Clique aqui</a>
 
 ### 2. 📈 Multiple Regression:
