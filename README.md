@@ -9,7 +9,7 @@ Here, I will gather all my studies, as well as documents that helped me to getti
 
     <a href="linear-regression/regression_study.ipynb">English - Click Here</a>
 
-    <a href="linear-regression/regression_study.ipynb">Português (Brasil) - Clique aqui</a>
+    <a href="linear-regression/estudo_regressão.ipynb">Português (Brasil) - Clique aqui</a>
 
 ### 2. 📈 Multiple Regression:
 - In soon...
