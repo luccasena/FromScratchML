@@ -12,7 +12,9 @@ Here, I will gather all my studies, as well as documents that helped me to getti
     <a href="linear-regression/estudo_regressão.ipynb">Português (Brasil) - Clique aqui</a>
 
 ### 2. 📈 Multiple Regression:
-- In soon...
+- You can find the material in:
+
+    <a href="multiple-regression/multiple_regression_study.ipynb">English - Click Here</a>
 
 ### 3. 🌳 Random Forest:
 - In soon...
